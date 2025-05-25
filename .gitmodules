@@ -1,0 +1,3 @@
+[submodule "kubernetes-app"]
+	path = kubernetes-app
+	url = https://github.com/estebanbecker/kubernetes-app
